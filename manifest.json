@@ -1,0 +1,14 @@
+{
+	"name" :"Show Extension",
+	"version" :"1.0",
+	"description" :"test",
+	"manifest_version": 2,
+	"browser_action" :
+	{
+		"default_popup" :"popup.html"
+	},
+	"permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
