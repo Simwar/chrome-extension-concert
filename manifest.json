@@ -9,6 +9,7 @@
 	},
 	"permissions": [
     "activeTab",
-    "storage"
+    "storage",
+    "http://www.infoconcert.com/"
   ]
 }
